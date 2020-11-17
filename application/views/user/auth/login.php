@@ -37,7 +37,7 @@
                     <?php echo $this->lang->line('sign_in') ?>
                 </button>
 
-                <span class="c-divider has-text c-divider--small u-mv-medium"><?php echo $this->lang->line('sign_in_by_sosmed') ?></span>
+                <!-- <span class="c-divider has-text c-divider--small u-mv-medium"><?php echo $this->lang->line('sign_in_by_sosmed') ?></span>
 
                 <div class="u-text-center">
                     <a class="c-icon u-bg-facebook" href="<?php echo base_url('auth/facebook') ?>">
@@ -47,7 +47,7 @@
                     <a class="c-icon u-bg-danger" href="<?php echo base_url('auth/google') ?>">
                         <i class="fa fa-google"></i>
                     </a>
-                </div>
+                </div> -->
 
             </form>
         </div>

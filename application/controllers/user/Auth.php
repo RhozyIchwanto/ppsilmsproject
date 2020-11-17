@@ -255,7 +255,7 @@ class Auth extends My_Site{
 		$settings['client_id']        = $this->site['google_api']['client_id'];
 		$settings['client_secret']    = $this->site['google_api']['client_secret'];
 		$settings['redirect_uri']     = base_url('auth/google');
-		$settings['application_name'] = 'Kurteyki';
+		$settings['application_name'] = 'ppsi_lms';
 		$settings['api_key']          = '';
 		$settings['scopes']           = array();
 
